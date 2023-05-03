@@ -1,0 +1,24 @@
+a 1-5: abcdj
+z 2-4: asfalseiruqwo
+b 3-6: bhhkkbbjjjb
+
+d 2-7: asdkjfhqwieu
+e 4-9: ewrtyhjdfgcvb
+h 1-6: hdghxkdsjafj
+j 2-8: abcdefghijklmn
+k 3-7: kdkfhglsjfkd
+m 1-4: oxv
+n 2-5: nopqrst
+o 3-8: oasdfrtghjkl
+p 1-7: ppoiuyt
+q 2-6: qazxsw
+r 3-9: rtyghnbvcxz
+s 2-5: sssss
+t 4-7: qwertyttt
+u 1-4: usct
+v 2-6: vkjxzn
+w 3-8: wzxcvbnm
+x 1-3: xox
+y 2-5: yyyyy
+z 9-7: zxcvbnm
+a 6-6: bcdef
